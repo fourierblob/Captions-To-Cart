@@ -38,7 +38,8 @@ pip install -r requirements.txt
 
 To run the recommendation system:
 
-```Run the ipynb file
+```
+Run the ipynb file
 ```
 
 ## Results
