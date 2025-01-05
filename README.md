@@ -29,8 +29,8 @@ The recommendation system employs a content-based approach using TF-IDF (Term Fr
 ## Installation
 
 ```bash
-git clone https://github.com/Akshaya-TL/Captions-to-Cart---A-Cross-Domain-Recommendation-System.git
-cd Captions-to-Cart---A-Cross-Domain-Recommendation-System
+git clone https://github.com/fourierblob/Captions-To-Cart.git
+cd Captions-To-Cart
 pip install -r requirements.txt
 ```
 
